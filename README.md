@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_USERNAME</h1>
+<h1 align="center">Hi 👋, I'm Maajid</h1>
 
 <h3 align="center">Software Engineer | MERN Stack Developer | React Native Developer</h3>
 
@@ -31,7 +31,7 @@
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,Drizzle" />
 </p>
 
 ### Mobile Development
@@ -70,8 +70,5 @@ A mobile delivery platform connecting customers, restaurants and drivers.
 
 ---
 
-<h3 align="center">💡 Build • Learn • Improve • Repeat 🚀</h3> 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3 align="center">💡 Build • Learn • Improve • Repeat 🚀</h3>
 -->
