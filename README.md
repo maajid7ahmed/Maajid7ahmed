@@ -31,7 +31,7 @@
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,Drizzle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,drizzle" />
 </p>
 
 ### Mobile Development
@@ -71,4 +71,4 @@ A mobile delivery platform connecting customers, restaurants and drivers.
 ---
 
 <h3 align="center">💡 Build • Learn • Improve • Repeat 🚀</h3>
--->
+
