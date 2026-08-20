@@ -38,6 +38,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://cdn.simpleicons.org/drizzle" width="48" height="48" />
 </p>
 
 ### DevOps & Tools
