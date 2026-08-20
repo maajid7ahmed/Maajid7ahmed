@@ -15,7 +15,7 @@
 - 🟢 Developing backend APIs with Node.js and Express
 - 🗄️ Working with MongoDB and PostgreSQL
 - 🐳 Learning Docker, Linux, AWS and DevOps
-- 🚀 Building real-world projects for my portfolio
+- 🚀 Building real-world projects 
 - 📚 Always learning and improving my engineering skills
 
 ---
@@ -50,7 +50,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📦 Inventory Management System
 
@@ -72,5 +72,5 @@ A mobile delivery platform connecting customers, restaurants and drivers.
 
 ---
 
-<h3 align="center">💡 Build • Learn • Improve • Repeat 🚀</h3>
+<h3 align="center">💡 Build • Learn • Improve • Repeat </h3>
 
