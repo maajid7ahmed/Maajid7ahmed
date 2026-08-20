@@ -31,14 +31,15 @@
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,drizzle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+  <img src="https://cdn.simpleicons.org/drizzle" width="48" height="48" />
 </p>
 
 ### Mobile Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://cdn.simpleicons.org/drizzle" width="48" height="48" />
+    
 </p>
 
 ### DevOps & Tools
