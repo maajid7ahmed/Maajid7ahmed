@@ -1,4 +1,18 @@
-## Hi there 👋
+## Technical Skills
+
+## 🚀 Skills
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=react" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode" />
 
 <!--
 **maajid7ahmed/Maajid7ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
