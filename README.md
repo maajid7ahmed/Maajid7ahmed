@@ -1,29 +1,76 @@
-## Technical Skills
+<h1 align="center">Hi 👋, I'm YOUR_USERNAME</h1>
 
-## 🚀 Skills
+<h3 align="center">Software Engineer | MERN Stack Developer | React Native Developer</h3>
+
+<p align="center">
+  Building modern web and mobile applications with clean, scalable technologies.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Software Engineer focused on full-stack development
+- ⚛️ Building applications with React, Next.js and React Native
+- 🟢 Developing backend APIs with Node.js and Express
+- 🗄️ Working with MongoDB and PostgreSQL
+- 🐳 Learning Docker, Linux, AWS and DevOps
+- 🚀 Building real-world projects for my portfolio
+- 📚 Always learning and improving my engineering skills
+
+---
+
+## 🛠️ Skills
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-### Mobile
-<img src="https://skillicons.dev/icons?i=react" />
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+</p>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode" />
 
-<!--
-**maajid7ahmed/Maajid7ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## 🚀 Featured Projects
+
+### 📦 Inventory Management System
+
+Full-stack inventory management application for managing products, stock and business operations.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+### 🏫 School Management System
+
+A system designed to manage students, teachers, classes and school operations.
+
+**Tech:** Next.js • Node.js • PostgreSQL • Prisma
+
+### 📱 Delivery App
+
+A mobile delivery platform connecting customers, restaurants and drivers.
+
+**Tech:** React Native • Node.js • Express • MongoDB
+
+---
+
+<h3 align="center">💡 Build • Learn • Improve • Repeat 🚀</h3> 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
